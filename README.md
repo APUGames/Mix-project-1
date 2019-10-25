@@ -9,4 +9,5 @@
 Navigate to the build folder and either download teh web directory to play in browser or download the rom folder to play in an emulator (or on a Game Boy!)
 ## Controls 
 Web: Z,X,Enter (Start), Arrow keys (Movement)
+
 Rom: A, B, Start, D-Pad (Movement)
