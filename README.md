@@ -1,5 +1,6 @@
 ## Syntax
  A game by Dawson Mix made at APU
+ 
  Contact: dmix18@apu.edu
  
  ## Description
